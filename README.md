@@ -1,5 +1,5 @@
 # Christmas-Reminder
-Hey **<span style="color:red">A-Diz</span>**, Merry Christmas! 
+Hey **![A-Diz](https://img.shields.io/badge/A--Diz-red?style=flat)**, Merry Christmas! 
 
 This is a mock up of our idea
 
