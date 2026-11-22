@@ -1,5 +1,5 @@
 # Christmas-Reminder
-Hey A-Diz, Merry Christmas! 
+Hey **<span style="color:red">A-Diz</span>**, Merry Christmas! 
 
 This is a mock up of our idea
 
